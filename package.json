@@ -1,0 +1,11 @@
+{
+  "name": "section-02",
+  "version": "0.0.1",
+  "description": "First app in node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Froylan Calderon",
+  "license": "ISC"
+}
